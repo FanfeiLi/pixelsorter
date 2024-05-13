@@ -16,6 +16,7 @@
 # along with Pixelsorting.  If not, see <http://www.gnu.org/licenses/>.
 
 import collections
+from collections.abc import MutableMapping
 import logging
 from math import ceil
 from random import randint, random, randrange
